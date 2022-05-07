@@ -89,6 +89,18 @@ nav:hover ul li a{
     line-height: 28px;
 }
 
+
+.written{
+  margin-right: 5vh;
+  float: right;
+  
+}
+
+.written a{
+  color: #fff;
+  text-decoration: none;
+}
+
 .links{
     margin-top: 30px;
 
